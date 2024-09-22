@@ -10,12 +10,6 @@ AI Chat Integration with Flutter using Gemini API. This project demonstrates how
 - Utilizes Cubit for efficient state management.
 - Freezed package for managing immutable states.
 
-## How It Works
-
-1. Open the app and start a conversation with the AI-powered chatbot.
-2. The chatbot will process your inputs and provide natural, relevant responses in real time using the Gemini API.
-3. Manage state effectively using Cubit, ensuring smooth UI performance.
-4. Freezed ensures immutable state management for a reliable and responsive app experience.
 
 ## Technologies Used
 
@@ -24,12 +18,9 @@ AI Chat Integration with Flutter using Gemini API. This project demonstrates how
 - **Cubit**: For state management.
 - **Freezed**: To manage immutable states.
 
-## Demo Video
+## Screenshots
 
-[Watch the demo video](https://github.com/user-attachments/assets/92d4cf50-a363-4f60-b777-0824c9f78156)
+![Screenshot_2](https://github.com/user-attachments/assets/beec90b3-ea85-4c62-9c65-bce76e5c4718)
+![Screenshot_1](https://github.com/user-attachments/assets/85582d18-27eb-49f5-a9f5-e254b9730f25)
+![Screenshot_120](https://github.com/user-attachments/assets/ebd33666-8175-4b7f-a2c4-45ba7589c75c)
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/gemini_chat.git
