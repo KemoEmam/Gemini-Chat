@@ -20,7 +20,12 @@ AI Chat Integration with Flutter using Gemini API. This project demonstrates how
 
 ## Screenshots
 
-![Screenshot_2](https://github.com/user-attachments/assets/beec90b3-ea85-4c62-9c65-bce76e5c4718)
-![Screenshot_1](https://github.com/user-attachments/assets/85582d18-27eb-49f5-a9f5-e254b9730f25)
+Screenshot 1
 ![Screenshot_120](https://github.com/user-attachments/assets/ebd33666-8175-4b7f-a2c4-45ba7589c75c)
+
+Screenshot 2
+![Screenshot_1](https://github.com/user-attachments/assets/85582d18-27eb-49f5-a9f5-e254b9730f25)
+
+Screenshot 3
+![Screenshot_2](https://github.com/user-attachments/assets/beec90b3-ea85-4c62-9c65-bce76e5c4718)
 
