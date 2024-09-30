@@ -1,6 +1,6 @@
 # Gemini Chat
 
-AI Chat Integration with Flutter using Gemini API with clean structure pattern based. This project demonstrates how to integrate AI chat functionality into a Flutter app, providing a smart chatbot interface for dynamic conversations.
+AI Chat Integration with Flutter using Gemini API with Clean Architecture pattern based. This project demonstrates how to integrate AI chat functionality into a Flutter app, providing a smart chatbot interface for dynamic conversations.
 
 ## Features
 
